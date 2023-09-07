@@ -1,6 +1,8 @@
-<img align ="top" src="https://drive.google.com/file/d/1SOsujhk4WiiKZwAjMPA62A-6CM7ObET5/view?usp=sharing" alt="" width="500">
+
 <h1 align="center">Hi 👋, I'm Abhishek Behera</h1>
+<img align ="top" src="https://drive.google.com/file/d/1SOsujhk4WiiKZwAjMPA62A-6CM7ObET5/view?usp=sharing" alt="" width="500">
 <h3 align="center">A passionate FullStack Web Developer</h3>
+
 
 <img align ="right" src="https://camo.githubusercontent.com/c168794a1d10d4515befd389775ab9ec546490bff17cf56a57fbcdb73599a18c/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f636f64696e672d667265616b2e676966" alt="" width="400">
 
